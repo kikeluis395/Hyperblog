@@ -49,6 +49,9 @@ body
 #post {
     padding: 1em;
 }
-body {
-    background-color: #333;
+footer {
+    background-color: #777;
+    color: white;
+    text-align: center;
+    padding: 8px 0;
 }
