@@ -13,8 +13,12 @@ body
     text-align: left;
     border: 1px solid #DDD;
     margin: 0 auto;
+    background-color: #DDD;
 }
-
+.nave {
+    width: 20px;
+    margin-right: 10px;
+}
 #container h1
 {
     font-size: 20px;
@@ -32,6 +36,8 @@ body
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
+    display: flex;
+    align-items: center;
 }
 
 #cabecera #tagline
@@ -42,4 +48,7 @@ body
 }
 #post {
     padding: 1em;
+}
+body {
+    background-color: #333;
 }
